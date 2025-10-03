@@ -6,6 +6,11 @@
 
 クラウド変数を使っていないので、Turbowarpのクラウドサーバーを気にせず使えます。
 
+> [!WARNING]
+> 観測点描画が多い場合極端に遅くなる場合があります。高スペックのPCなどで使用することを推奨します。
+>
+> また常に正常に動作しているとは限りません。
+
 ## メモクレ
 ### 協力者
 #### kotoho7様 (https://scratch.mit.edu/users/Kuppi-scratch , https://scratch.mit.edu/users/kotoho)
@@ -14,6 +19,7 @@
 ステージサイズに依存するxy,size
 #### t0729様 (https://scratch.mit.edu/users/0729_tai)
 リストなど
+
 
 ### 使った言語(?)
 Turbowarp Scratch
