@@ -1,4 +1,9 @@
 # JPEQ-地震情報 
+> [!IMPORTANT]
+> 津波のもできました
+>
+> https://smg-scratch04.github.io/JTInfo/
+
 ## これについて
 最新地震情報と地震情報発表順5件がみられます。
 
